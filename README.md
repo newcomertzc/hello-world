@@ -1,2 +1,5 @@
 # hello-world
-Just a repository.
+
+Hi Humans!
+TangZecheng here, I like Java and Python.
+Now I'm learning C# to write Unity scripts.
